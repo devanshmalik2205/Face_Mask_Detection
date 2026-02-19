@@ -1,0 +1,5 @@
+.gcloudignore
+Dockerfile
+main.py
+requirements.txt
+separate.py
