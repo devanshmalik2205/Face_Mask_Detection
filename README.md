@@ -21,20 +21,35 @@ Built for high accuracy and lightweight performance.
 👉 **Watch the Demo Here:**  
 https://drive.google.com/file/d/18c_eoZDxXMp6YraUM6_NXSeX6mOS8Ce3/view?usp=drive_link
 
-### How to Attach a Video to GitHub README
+---
 
-GitHub does not support direct video embedding. You can:
+## 📂 Dataset
 
-**Option 1 (Recommended – YouTube)**
-1. Upload your demo video to YouTube (Unlisted is fine).
-2. Copy the link.
-3. Paste it above.
+- Total Images: **56,343**
+- Classes:
+- 😷 With Mask
+- ❌ Without Mask
 
-**Option 2 – Google Drive**
-1. Upload video to Drive.
-2. Set to “Anyone with the link can view”.
-3. Paste the shareable link.
+👉 **Dataset Link:**  
+https://universe.roboflow.com/mypvt/face_mask_detection-51jwb
 
-**Option 3 – Upload to Repository (Not Recommended)**
-- Upload the `.mp4` file to your repo.
-- Add:
+---
+
+## 📊 Model Performance
+
+Precision (P)       : 0.9751
+Recall (R)          : 0.9657
+mAP@0.5             : 0.9823
+mAP@0.5:0.95        : 0.8267
+
+<img width="2400" height="1200" alt="Image" src="https://github.com/user-attachments/assets/bb46634c-91b0-48a1-9948-0ce3174109bd" />
+
+---
+
+## 🌍 Try It Out
+
+👉 **Live Application:**  
+https://dotted-journey-473912-h4.web.app/Project_1/frontend/project1.html
+
+👉 **Check out my Portfolio:**
+https://dotted-journey-473912-h4.web.app/
