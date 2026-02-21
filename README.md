@@ -38,10 +38,10 @@ https://universe.roboflow.com/mypvt/face_mask_detection-51jwb
 ## 📊 Model Performance
 
 ```
-Precision (P)       : 0.9751
-Recall (R)          : 0.9657
-mAP@0.5             : 0.9823
-mAP@0.5:0.95        : 0.8267
+Precision (P)       : 0.925
+Recall (R)          : 0.908
+mAP@0.5             : 0.933
+mAP@0.5:0.95        : 0.706
 ```
 
 <img width="2400" height="1200" alt="Image" src="https://github.com/user-attachments/assets/bb46634c-91b0-48a1-9948-0ce3174109bd" />
