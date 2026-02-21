@@ -53,5 +53,5 @@ mAP@0.5:0.95        : 0.8267
 👉 **Live Application:**  
 https://dotted-journey-473912-h4.web.app/Project_1/frontend/project1.html
 
-👉 **Check out my Portfolio:**
+👉 **Check out my Portfolio:**\n
 https://dotted-journey-473912-h4.web.app/
