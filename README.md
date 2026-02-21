@@ -19,7 +19,7 @@ Built for high accuracy and lightweight performance.
 ## 🎥 Demo Video
 
 👉 **Watch the Demo Here:**  
-![video](https://github.com/user-attachments/assets/9b377837-7579-4e78-8342-2002e642c072)
+![video](https://drive.google.com/file/d/18c_eoZDxXMp6YraUM6_NXSeX6mOS8Ce3/view?usp=drive_link)
 
 ### How to Attach a Video to GitHub README
 
