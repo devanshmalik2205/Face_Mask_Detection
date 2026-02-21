@@ -44,7 +44,7 @@ mAP@0.5             : 0.933
 mAP@0.5:0.95        : 0.706
 ```
 
-<img width="2400" height="1200" alt="Image" src="https://github.com/user-attachments/assets/bb46634c-91b0-48a1-9948-0ce3174109bd" />
+<img width="2400" height="1200" alt="Image" src="https://github.com/user-attachments/assets/9fe67dc0-1f36-4951-9fa0-bee26863dcd8" />
 
 ---
 
